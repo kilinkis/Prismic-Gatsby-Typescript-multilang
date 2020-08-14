@@ -1,5 +1,12 @@
 # Prismic & Gatsby multi-language example website 
 
+// TODO: 
+
+1. Implement previews https://prismic.io/docs/gatsby/misc-topics/previews  
+2. Deploy on Netlify https://user-guides.prismic.io/en/articles/3601217-multi-language-website-example-with-gatsby-js  
+
+<hr>
+
 This is an example website project using [Gatsby.js](https://www.gatsbyjs.org/) with content managed in [Prismic](https://prismic.io)
 
 ## Getting started
