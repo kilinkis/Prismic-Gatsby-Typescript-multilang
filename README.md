@@ -1,20 +1,20 @@
-# Prismic & Gatsby multi-language example website 
+# Prismic & Gatsby multi-language example website
 
-Live preview: https://musing-goldwasser-eccda3.netlify.app  
+Live preview: https://musing-goldwasser-eccda3.netlify.app
 
-// TODO: 
+// TODO:
 
-1. ~~Implement previews https://prismic.io/docs/gatsby/misc-topics/previews~~  
-2. ~~Deploy on Netlify https://user-guides.prismic.io/en/articles/3601217-multi-language-website-example-with-gatsby-js~~  
-3. convert to TypeScript
+1. ~~Implement previews https://prismic.io/docs/gatsby/misc-topics/previews~~
+2. ~~Deploy on Netlify https://user-guides.prismic.io/en/articles/3601217-multi-language-website-example-with-gatsby-js~~
+3. ~~Convert to TypeScript~~ WIP: Just converted the homepage for now
 
 <hr>
 
 This is an example website project using [Gatsby.js](https://www.gatsbyjs.org/) with content managed in [Prismic](https://prismic.io)
 
 ## Getting started
-Check out [this article](https://user-guides.prismic.io/en/articles/3601217-multi-language-website-example-with-gatsby-js) for a step-by-step guide to getting this project up and running.
 
+Check out [this article](https://user-guides.prismic.io/en/articles/3601217-multi-language-website-example-with-gatsby-js) for a step-by-step guide to getting this project up and running.
 
 ## Learn more about using Prismic with Gatsby.js
 

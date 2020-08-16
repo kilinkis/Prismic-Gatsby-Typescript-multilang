@@ -19,7 +19,7 @@ module.exports = {
             type: 'Homepage',
             match: '/:lang?',
             path: '/:lang?',
-            component: require.resolve('./src/templates/Homepage.js'),
+            component: require.resolve('./src/templates/Homepage.tsx'),
             langs,
           },
           {
@@ -32,6 +32,7 @@ module.exports = {
         ],
       },
     },
+    'gatsby-plugin-typescript',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
