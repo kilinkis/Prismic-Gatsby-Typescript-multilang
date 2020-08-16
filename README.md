@@ -1,9 +1,12 @@
 # Prismic & Gatsby multi-language example website 
 
+Live preview: https://musing-goldwasser-eccda3.netlify.app  
+
 // TODO: 
 
-1. Implement previews https://prismic.io/docs/gatsby/misc-topics/previews  
-2. Deploy on Netlify https://user-guides.prismic.io/en/articles/3601217-multi-language-website-example-with-gatsby-js  
+1. ~~Implement previews https://prismic.io/docs/gatsby/misc-topics/previews~~  
+2. ~~Deploy on Netlify https://user-guides.prismic.io/en/articles/3601217-multi-language-website-example-with-gatsby-js~~  
+3. convert to TypeScript
 
 <hr>
 
